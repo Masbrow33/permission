@@ -1,0 +1,10 @@
+# ==========================================================
+#  newuser — detail pendaftaran IP
+#  Format ditulis otomatis oleh menu-ip.sh:
+#
+#  Name        : <client>
+#  Admin Panel : <ON|OFF>
+#  Exp         : <YYYY-MM-DD>
+#  IPVPS       : <ip>
+#  Reg Date    : <YYYY-MM-DD>
+# ==========================================================

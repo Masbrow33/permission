@@ -1,0 +1,13 @@
+# ==========================================================
+#  ipmini — daftar IP yang diizinkan memakai panel
+#
+#  Format (WAJIB 5 kolom, dipisah spasi):
+#      ###  <client>  <exp>  <ip>  <admin>
+#
+#  Dibaca menu-ip.sh:
+#      awk '{print $4}'  -> IP
+#      awk '{print $5}'  -> ON / OFF
+#
+#  Baris contoh (hapus tanda # untuk memakai):
+#  ### nama-client 2027-01-01 203.0.113.50 ON
+# ==========================================================
